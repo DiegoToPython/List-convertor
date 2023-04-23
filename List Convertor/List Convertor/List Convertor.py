@@ -1,5 +1,4 @@
 # imports
-import os
 from tkinter import *
 
 # Fonctions
